@@ -1,8 +1,8 @@
 package Wellington.henrique.domain;
 
 import java.util.Objects;
-import java.util.Collection;
-import java.util.List;
+
+
 
 public class Cliente {
 

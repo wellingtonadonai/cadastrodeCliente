@@ -4,7 +4,6 @@ import Wellington.henrique.DAO.ClienteSetDAO;
 import Wellington.henrique.DAO.IClienteDAO;
 import Wellington.henrique.domain.Cliente;
 
-
 import javax.swing.*;
 
 public class App {
