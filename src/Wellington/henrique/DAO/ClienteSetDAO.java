@@ -1,10 +1,11 @@
 package Wellington.henrique.DAO;
 
 import Wellington.henrique.domain.Cliente;
+import Wellington.henrique.DAO.ClienteMapDAO;
+
 
 import java.util.Collection;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 public class ClienteSetDAO implements IClienteDAO{

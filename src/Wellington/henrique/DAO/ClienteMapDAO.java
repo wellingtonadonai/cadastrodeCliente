@@ -10,6 +10,7 @@ public class ClienteMapDAO implements IClienteDAO {
     private Map<Long, Cliente> map;
 
     public ClienteMapDAO() {
+
         this.map = new HashMap<>();
     }
 

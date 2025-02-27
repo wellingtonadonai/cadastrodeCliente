@@ -1,5 +1,6 @@
 package Wellington.henrique;
 
+import Wellington.henrique.DAO.ClienteMapDAO;
 import Wellington.henrique.DAO.ClienteSetDAO;
 import Wellington.henrique.DAO.IClienteDAO;
 import Wellington.henrique.domain.Cliente;

@@ -3,7 +3,6 @@ package Wellington.henrique.DAO;
 import Wellington.henrique.domain.Cliente;
 
 import java.util.Collection;
-import java.util.List;
 
 public interface IClienteDAO {
 
